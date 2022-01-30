@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Body
+  - Hole
+  - Feet
   layers:
   - Default
   - TransparentFX
@@ -13,13 +17,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Feet
+  - Player
+  - Ground
+  - Hole
+  - Body
+  - Boundary
+  - FallingBody
   - 
   - 
   - 
